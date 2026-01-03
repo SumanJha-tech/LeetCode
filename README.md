@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/SumanJha-tech/LeetCode/tree/master/0175-combine-two-tables) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/SumanJha-tech/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
