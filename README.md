@@ -23,4 +23,8 @@
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SumanJha-tech/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SumanJha-tech/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
