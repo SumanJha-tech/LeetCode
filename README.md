@@ -7,10 +7,12 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SumanJha-tech/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/SumanJha-tech/LeetCode/tree/master/0066-plus-one) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SumanJha-tech/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1390-four-divisors](https://github.com/SumanJha-tech/LeetCode/tree/master/1390-four-divisors) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SumanJha-tech/LeetCode/tree/master/0066-plus-one) |
+| [1390-four-divisors](https://github.com/SumanJha-tech/LeetCode/tree/master/1390-four-divisors) |
 ## Binary Search
 |  |
 | ------- |
