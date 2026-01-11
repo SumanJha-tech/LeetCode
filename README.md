@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SumanJha-tech/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/SumanJha-tech/LeetCode/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/SumanJha-tech/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SumanJha-tech/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/SumanJha-tech/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SumanJha-tech/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -36,6 +37,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SumanJha-tech/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SumanJha-tech/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/SumanJha-tech/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SumanJha-tech/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -46,6 +48,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SumanJha-tech/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/SumanJha-tech/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
@@ -74,4 +77,12 @@
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SumanJha-tech/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/SumanJha-tech/LeetCode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/SumanJha-tech/LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
