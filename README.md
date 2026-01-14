@@ -11,6 +11,7 @@
 | [1390-four-divisors](https://github.com/SumanJha-tech/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SumanJha-tech/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/SumanJha-tech/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [3454-separate-squares-ii](https://github.com/SumanJha-tech/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Math
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SumanJha-tech/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3454-separate-squares-ii](https://github.com/SumanJha-tech/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,4 +87,12 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SumanJha-tech/LeetCode/tree/master/0085-maximal-rectangle) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/SumanJha-tech/LeetCode/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/SumanJha-tech/LeetCode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
